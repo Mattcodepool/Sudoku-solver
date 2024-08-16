@@ -1,6 +1,6 @@
 # pylint: disable=missing-docstring
 # Optional challenge from leWagon
-# updated README explanes the function
+# updated README explains the function
 
 def sudoku_solver(grid):
     """Sudoku solver"""
